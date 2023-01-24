@@ -1,14 +1,14 @@
 _id: spc_0d474bd4842243a2994c19f06a8c6d28
 type: ApiSpec
 parentId: wrk_657bc87d400148989bab27fb22d3fb69
-modified: 1674597722106
+modified: 1674597826309
 created: 1674511297904
 fileName: Swagger Petstore 1.0.2
 contents: >
   openapi: 3.0.0
 
   info:
-    description: "This is a test sample server Petstore server.  You can find out more about
+    description: "This is a test2 sample server Petstore server.  You can find out more about
       Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net,
       #swagger](http://swagger.io/irc/).  For this sample, you can use the api key
       `special-key` to test the authorization filters."
